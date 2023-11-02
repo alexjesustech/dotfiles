@@ -7,7 +7,7 @@ sed -i 's/export GITHUB_TOKEN=.*/export GITHUB_TOKEN=GITTOKENHERE/' dotfiles/zsh
 
 # Packages
 apt list --installed > apt-installed.txt
-apt list --manual-installed apt-installed_manual.txt
+apt list --manual-installed apt-installed-manual.txt
 #snap list snap_installed.txt
 #cargo install --list > cargo_install.txt
 micro -plugin list > micro_plugins.txt
