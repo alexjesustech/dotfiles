@@ -112,7 +112,7 @@ source $ZSH/oh-my-zsh.sh
 alias vpnc="globalprotect connect"
 alias vpns="globalprotect show --status && globalprotect show --details"
 alias vpnd="globalprotect disconnect"
-
+alias bat="/usr/bin/batcat"
 
 ### Added by Zinit's installer
 if [[ ! -f $HOME/.local/share/zinit/zinit.git/zinit.zsh ]]; then
