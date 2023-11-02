@@ -1,0 +1,57 @@
+config:
+  backup: true
+  create: true
+  dotpath: dotfiles
+dotfiles:
+  f_zshrc:
+    src: zshrc
+    dst: ~/.zshrc
+    chmod: '644'
+  f_zshenv:
+    src: zshenv
+    dst: ~/.zshenv
+  f_bashrc:
+    src: bashrc
+    dst: ~/.bashrc
+    chmod: '644'
+  f_gitconfig:
+    src: gitconfig
+    dst: ~/.gitconfig
+  f_settings.json:
+    src: config/Code/User/settings.json
+    dst: ~/.config/Code/User/settings.json
+  d_terminator:
+    src: config/terminator
+    dst: ~/.config/terminator
+  d_bin:
+    src: bin
+    dst: ~/bin
+    chmod: '755'
+  f_bindings.json:
+    src: config/micro/bindings.json
+    dst: ~/.config/micro/bindings.json
+    chmod: '644'
+  f_micro_settings.json:
+    src: config/micro/settings.json
+    dst: ~/.config/micro/settings.json
+    chmod: '644'
+  d_flameshot:
+    src: config/flameshot
+    dst: ~/.config/flameshot
+  f_profile:
+    src: profile
+    dst: ~/.profile
+profiles:
+  tech:
+    dotfiles:
+    - f_zshrc
+    - f_zshenv
+    - f_bashrc
+    - f_gitconfig
+    - f_settings.json
+    - d_terminator
+    - d_bin
+    - f_bindings.json
+    - f_micro_settings.json
+    - d_flameshot
+    - f_profile
