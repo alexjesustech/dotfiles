@@ -12,7 +12,7 @@ snap list > snap-installed.txt
 cargo install --list > cargo-install.txt
 micro -plugin list > micro_plugins.txt
 code --list-extensions | xargs -L 1 echo code --install-extension > code_extensions.txt
-/usr/bin/python3 -m pip freeze > "system_python$(python -V).txt"
+/usr/bin/python3 -m pip freeze > "system_python$(python3 -V).txt"
 
 # Commit
 #git add dotfiles
