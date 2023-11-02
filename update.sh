@@ -15,5 +15,7 @@ code --list-extensions | xargs -L 1 echo code --install-extension > code_extensi
 #/usr/bin/python -m pip freeze > "system_python$(python -V).txt"
 
 # Commit
-git add dotfiles
+#git add dotfiles
+git add .
 git commit -m "Update dotfiles"
+git push -u origin main
