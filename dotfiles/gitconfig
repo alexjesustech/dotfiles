@@ -1,3 +1,10 @@
 [user]
 	email = alexjesus.tech@gmail.com
 	name = Alex Jesus
+	signingKey = 9371DEF9A57BDFDF40D08AB97A10B293C25EC1F2
+[commit]
+	gpgSign = true
+[tag]
+	forceSignAnnotated = true
+[core]
+	autocrlf = input

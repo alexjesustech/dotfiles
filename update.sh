@@ -9,6 +9,7 @@ sed -i 's/export GITHUB_TOKEN=.*/export GITHUB_TOKEN=GITTOKENHERE/' dotfiles/zsh
 apt list --installed > apt-installed.txt
 apt list --manual-installed > apt-installed-manual.txt
 snap list > snap-installed.txt
+flatpak list > flatpak-installed.txt
 cargo install --list > cargo-install.txt
 micro -plugin list > micro_plugins.txt
 code --list-extensions | xargs -L 1 echo code --install-extension > code_extensions.txt
