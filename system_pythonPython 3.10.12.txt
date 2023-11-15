@@ -69,6 +69,7 @@ more-itertools==8.10.0
 mpmath==0.0.0
 msgpack==1.0.3
 netifaces==0.11.0
+notify2==0.3
 numpy==1.21.5
 oauthlib==3.2.0
 olefile==0.46

@@ -13,10 +13,10 @@ gnome-3-38-2004            0+git.efb213a               143    latest/stable/… 
 gnome-42-2204              0+git.ff35a85               141    latest/stable/…  canonical**    -
 gtk-common-themes          0.1-81-g442e511             1535   latest/stable/…  canonical**    -
 helix                      23.10                       21     latest/stable    jmbrock        classic
-insomnia                   8.4.0                       235    latest/stable    getinsomnia    -
+insomnia                   8.4.2                       237    latest/stable    getinsomnia    -
 lunacy                     9.2.1                       69     latest/stable    icons8         -
 obsidian                   1.4.16                      21     latest/stable    obsidianmd     classic
-postman                    10.19.7                     231    v10/stable       postman-inc**  -
+postman                    10.20.0                     234    v10/stable       postman-inc**  -
 snap-store                 41.3-71-g709398e            959    latest/stable/…  canonical**    -
 snapd                      2.60.4                      20290  latest/stable    canonical**    snapd
 snapd-desktop-integration  0.9                         83     latest/stable/…  canonical**    -
