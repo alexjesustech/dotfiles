@@ -8,3 +8,5 @@
 	forceSignAnnotated = true
 [core]
 	autocrlf = input
+[init]
+	defaultBranch = main
