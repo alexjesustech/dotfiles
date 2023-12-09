@@ -14,6 +14,7 @@ cargo install --list > cargo-install.txt
 micro -plugin list > micro_plugins.txt
 code --list-extensions | xargs -L 1 echo code --install-extension > code_extensions.txt
 /usr/bin/python3 -m pip freeze > "system_python$(python3 -V).txt"
+npm list -g > npm_list_global.txt
 
 # Commit
 git add .

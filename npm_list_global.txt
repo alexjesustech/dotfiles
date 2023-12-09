@@ -1,0 +1,6 @@
+/home/alexjesus/.asdf/installs/nodejs/20.9.0/lib
+├── @angular/cli@17.0.0
+├── corepack@0.20.0
+├── npm@10.2.3
+└── ungit@1.5.24+70b8cab0
+
