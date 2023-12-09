@@ -116,6 +116,7 @@ alias vpns="globalprotect show --status && globalprotect show --details"
 alias vpnd="globalprotect disconnect"
 alias bat="/usr/bin/batcat"
 alias sail="[ -f sail ] && sh sail || sh vendor/bin/sail"
+alias pa="php artisan"
 
 ### Added by Zinit's installer
 if [[ ! -f $HOME/.local/share/zinit/zinit.git/zinit.zsh ]]; then

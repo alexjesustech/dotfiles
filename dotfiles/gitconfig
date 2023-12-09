@@ -10,3 +10,5 @@
 	autocrlf = input
 [init]
 	defaultBranch = main
+[cola]
+	spellcheck = false
