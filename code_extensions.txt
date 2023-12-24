@@ -11,11 +11,13 @@ code --install-extension bradlc.vscode-tailwindcss
 code --install-extension christian-kohler.npm-intellisense
 code --install-extension christian-kohler.path-intellisense
 code --install-extension ClemensPeters.format-json
+code --install-extension Codeium.codeium
 code --install-extension cstrap.flask-snippets
 code --install-extension DavidAnson.vscode-markdownlint
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension dionmunk.vscode-notes
 code --install-extension donjayamanne.githistory
+code --install-extension dracula-theme.theme-dracula
 code --install-extension ecmel.vscode-html-css
 code --install-extension EditorConfig.EditorConfig
 code --install-extension eriklynd.json-tools
@@ -32,7 +34,6 @@ code --install-extension Gruntfuggly.todo-tree
 code --install-extension henriiik.docker-linter
 code --install-extension humao.rest-client
 code --install-extension inu1255.easy-snippet
-code --install-extension IronGeek.vscode-env
 code --install-extension jasonlhy.hungry-delete
 code --install-extension johnbillion.vscode-wordpress-hooks
 code --install-extension kamikillerto.vscode-colorize
@@ -44,6 +45,7 @@ code --install-extension mohsen1.prettify-json
 code --install-extension mrmlnc.vscode-scss
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension MS-CEINTL.vscode-language-pack-pt-BR
+code --install-extension ms-dotnettools.vscode-dotnet-runtime
 code --install-extension ms-edgedevtools.vscode-edge-devtools
 code --install-extension ms-python.isort
 code --install-extension ms-python.python
@@ -70,13 +72,17 @@ code --install-extension PKief.material-icon-theme
 code --install-extension pranaygp.vscode-css-peek
 code --install-extension qwtel.sqlite-viewer
 code --install-extension redhat.vscode-yaml
+code --install-extension ritwickdey.LiveServer
 code --install-extension ryu1kn.partial-diff
 code --install-extension s-nlf-fh.glassit
 code --install-extension sibiraj-s.vscode-scss-formatter
+code --install-extension TabNine.tabnine-vscode
 code --install-extension techer.open-in-browser
 code --install-extension usernamehw.errorlens
 code --install-extension VisualStudioExptTeam.intellicode-api-usage-examples
 code --install-extension VisualStudioExptTeam.vscodeintellicode
+code --install-extension VisualStudioExptTeam.vscodeintellicode-completions
+code --install-extension VisualStudioExptTeam.vscodeintellicode-insiders
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension Vue.volar
 code --install-extension WakaTime.vscode-wakatime
@@ -85,4 +91,5 @@ code --install-extension xdebug.php-debug
 code --install-extension xshrim.txt-syntax
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension ZainChen.json
+code --install-extension zhuangtongfa.material-theme
 code --install-extension Zignd.html-css-class-completion

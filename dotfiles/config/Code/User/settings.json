@@ -1,11 +1,13 @@
 {
-    "workbench.colorTheme": "Default Dark Modern",
-    "workbench.iconTheme": "vscode-icons",
     "glassit.alpha": 250,
     "explorer.confirmDelete": false,
     "open-in-browser.default": "/usr/bin/brave-browser",
-    "editor.minimap.enabled": false,
     "workbench.editorAssociations": {
         "*.html": "default"
-    }
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro",
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "tabnine.experimentalAutoImports": true
 }
